@@ -1,3 +1,0 @@
-Something has changed in this test file.
-I just typed some words here.
-github is great tool to use.
